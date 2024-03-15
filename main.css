@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+}
+
+h2 {
+    margin: 22px;
+    margin-bottom: 16px;
+}
+
+.cadastroForm {
+    margin-bottom: 8px;
+}
+
+.cadastroForm label {
+    font-weight: bold;
+    display: block;
+}
+
+.cadastroForm input {
+    width: 57%;
+    display: block;
+    padding: 8px;
+}
+
+button {
+    display: block;
+    width: 61%;
+    padding: 8px 0;
+    border: none;
+    background-color: black;
+    color: #f2f2f2;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 8px;
+}
